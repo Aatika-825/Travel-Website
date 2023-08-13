@@ -1,2 +1,2 @@
-# Tr
+# Travel Website
 Here I have developed a project on Tour and Travel. Online Tour and Travel Booking is a system that gives you the facility of booking any type of packages (Summer special packages, Manali tour packages, Shimla special packages, adventures etc ). This system is made, so that customer can easily book ticket for all packages of tourist place such as hills, trekking, adventures, spirituals and user can also register for hotels for different types of room.
